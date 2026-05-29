@@ -1,4 +1,4 @@
-# Hi, I'm Jaydeep ðŸ‘‹
+# Hi, I'm Jaydeep 
 
 I train small language models and study how far they can be pushed with **reinforcement learning and post-training**. Most of my work sits at the intersection of post-training methods (SFT, RLHF, GRPO, reward modeling) and sub-1B models â€” testing whether large-model techniques scale down ~70Ã—.
 
