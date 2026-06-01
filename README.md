@@ -15,4 +15,7 @@ Top 100 @ HuggingFace x Meta OpenEnv Hackathon (Bangalore).
 
 
 ### Find me
-Site - [jaydeepraijada.com](https://jaydeepraijada.com) HF - [HuggingFace](https://huggingface.co/JaydeepR) Substack - [Substack](https://jaydeepraijada.substack.com) LinkedIn [LinkedIn](https://linkedin.com/in/jaydeepraijada)
+[jaydeepraijada.com](https://jaydeepraijada.com) 
+[HuggingFace](https://huggingface.co/JaydeepR) 
+[Substack](https://jaydeepraijada.substack.com) 
+[LinkedIn](https://linkedin.com/in/jaydeepraijada)
