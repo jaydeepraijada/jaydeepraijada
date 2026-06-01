@@ -6,15 +6,13 @@ Currently an Analyst at **Lowe's** (production NLP & ML), doing post-training an
 Top 100 @ HuggingFace x Meta OpenEnv Hackathon (Bangalore).
 
 ### Featured work
+| Project                                                                                      | Description                                                                                                                                                                                   |
+| -------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[SHADE-GYM](https://github.com/jaydeepraijada/SHADE-GYM)**                                 | OpenEnv-native RL gym for AI safety. Trained a **1.5B LoRA monitor via GRPO**, improving AUROC from **0.500 → 0.893**, closing ~40% of the gap to a frontier model at **<0.1% of the cost**.  |
+| **[post-training-experiments](https://github.com/jaydeepraijada/post-training-experiments)** | Domain-adapted **SmolLM-135M** using **QLoRA**, achieving **−20.1% perplexity** and **+25.4% ROUGE-L**, with a writeup analyzing which post-training interventions actually moved the needle. |
+| **[Diffusion](https://github.com/jaydeepraijada/Diffusion)**                                 | Built diffusion language models from scratch, including a **~150M ModernBERT-based model** and a **45M first-principles implementation**.                                                     |
+| **[TenderIQ](https://github.com/jaydeepraijada/TenderIQ)**                                   | Production document-evaluation system featuring **multi-tier OCR, RAG, and human-in-the-loop review** for scalable document analysis.                                                         |
 
-| Project | What it is |
-|---|---|
-| **[SHADE-GYM](https://github.com/jaydeepraijada/SHADE-GYM)** | OpenEnv-native RL gym for AI safety. Trained a 1.5B LoRA monitor via GRPO from AUROC 0.500 â†’ **0.893**, closing ~40% of the gap to a frontier model at <0.1% the cost. |
-| **[post-training-experiments](https://github.com/jaydeepraijada/post-training-experiments)** | Domain-adapted SmolLM-135M with QLoRA â†’ **âˆ’20.1% perplexity**, +25.4% ROUGE-L. With a writeup on what actually moved the needle. |
-| **[Diffusion](https://github.com/jaydeepraijada/Diffusion)** | Diffusion language models built from scratch (ModernBERT ~150M + a 45M model from first principles). |
-| **[llm_from_scratch](https://github.com/jaydeepraijada/llm_from_scratch)** | 9-part PyTorch-only LLM stack: architecture â†’ scaling â†’ MoE â†’ alignment (SFT â†’ RM â†’ PPO â†’ GRPO). No trainer APIs. |
-| **[RL_Envs_101](https://github.com/jaydeepraijada/RL_Envs_101)** | Reference RL environments implemented across 6 frameworks (OpenEnv, Verifiers, NeMo Gym, SkyRL, GEM, ORS). |
-| **[TenderIQ](https://github.com/jaydeepraijada/TenderIQ)** | Production document-evaluation system: multi-tier OCR, RAG, human-in-the-loop review. |
 
 ### Find me
 Site - [jaydeepraijada.com](https://jaydeepraijada.com) HF - [HuggingFace](https://huggingface.co/JaydeepR) Substack - [Substack](https://jaydeepraijada.substack.com) LinkedIn [LinkedIn](https://linkedin.com/in/jaydeepraijada)
