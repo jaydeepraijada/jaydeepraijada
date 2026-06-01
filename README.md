@@ -17,4 +17,4 @@ Top 100 @ HuggingFace x Meta OpenEnv Hackathon (Bangalore).
 | **[TenderIQ](https://github.com/jaydeepraijada/TenderIQ)** | Production document-evaluation system: multi-tier OCR, RAG, human-in-the-loop review. |
 
 ### Find me
-Site - [jaydeepraijada.com](https://jaydeepraijada.com) HF — [HuggingFace](https://huggingface.co/JaydeepR)  [Substack](https://jaydeepraijada.substack.com) LinkedIn [LinkedIn](https://linkedin.com/in/jaydeepraijada)
+Site - [jaydeepraijada.com](https://jaydeepraijada.com) HF - [HuggingFace](https://huggingface.co/JaydeepR) Substack - [Substack](https://jaydeepraijada.substack.com) LinkedIn [LinkedIn](https://linkedin.com/in/jaydeepraijada)
