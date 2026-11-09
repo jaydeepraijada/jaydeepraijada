@@ -2,7 +2,7 @@
 
 I train small language models and study how far they can be pushed with **reinforcement learning and post-training**. Most of my work sits at the intersection of post-training methods (SFT, RLHF, GRPO, reward modeling) and sub-1B models, testing whether large-model techniques scale down ~70x.
 
-Currently an Analyst at **Lowe's** (production NLP & ML), doing post-training and RL research on my own time.
+Currently an AI researcher at **Comprint** 
 Top 100 @ HuggingFace x Meta OpenEnv Hackathon (Bangalore).
 
 ### Featured work
